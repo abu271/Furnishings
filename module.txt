@@ -6,7 +6,8 @@
     "displayName" : "Furnishings",
     "description" : "A library module providing logic for furnishings, like doors or chests.",
     "dependencies" : [
-        { "id": "Inventory", "minVersion": "1.1.0" }
+        { "id": "Inventory", "minVersion": "1.1.0" },
+        { "id": "WorldlyTooltipAPI", "minVersion": "1.0.0" }
     ],
     "serverSideOnly" : false,
     "isLibrary": true
